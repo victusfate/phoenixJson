@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" 'http://127.0.0.1:4000/api/contacts' -d '{ "contact": { "misc": "hey you funky guy", "name": "Sir Isaac Newton", "phone": "8675309", "sex": 0} }'

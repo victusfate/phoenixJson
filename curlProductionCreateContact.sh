@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" 'https://mysterious-crag-6541.herokuapp.com/api/contacts' -d '{ "contact": { "misc": "hey you funky guy", "name": "Sir Isaac Newton", "phone": "8675309", "sex": 0} }'
